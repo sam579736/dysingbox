@@ -1,0 +1,16 @@
+{
+  "type": "vless",
+  "tag": "vless-out",
+
+  "server": "104.26.11.11",
+  "server_port": 80,
+  "uuid": "405d2fd3-18a0-4e1f-b6f6-37172f827e41",
+  "flow": "xtls-rprx-vision",
+  "network": "tcp",
+  "tls": {},
+  "packet_encoding": "",
+  "multiplex": {},
+  "transport": {},
+
+  ... // 拨号字段
+}
